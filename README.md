@@ -1,0 +1,2 @@
+- **Simple twitter clone with feautures - tweet , like , retweet, comment.**
+- **Reactions to a tweet get's stored in local storage , hence it remains intact even after page refresh.**
